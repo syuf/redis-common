@@ -1,4 +1,4 @@
-package com.zlpay.configuration;
+package com.zlpay.redis.configuration;
 
 import java.lang.reflect.Method;
 import java.time.Duration;

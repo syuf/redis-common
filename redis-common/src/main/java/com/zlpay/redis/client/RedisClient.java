@@ -1,4 +1,4 @@
-package com.zlpay.redis;
+package com.zlpay.redis.client;
 
 import java.io.Serializable;
 import java.util.Map;
